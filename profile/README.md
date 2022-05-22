@@ -1,5 +1,3 @@
-# Genbyte
-
 ## About us
 
 ### :art: We are creative.
